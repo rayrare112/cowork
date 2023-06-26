@@ -1,0 +1,1388 @@
+.,
+. * {
+  box-sizing: border-box;
+}
+. {
+  background: #ffffff;
+  width: 1440px;
+  height: 6683px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-6052 {
+  background: rgba(243, 232, 204, 0.1);
+  border-radius: 1px;
+  border-style: solid;
+  border-color: rgba(129, 158, 38, 0.2);
+  border-width: 0px 0px 1px 0px;
+  width: 1440px;
+  height: 88px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  backdrop-filter: blur(25px);
+}
+.frame-1000003495 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 100px;
+  top: 6px;
+}
+.logo-dumy {
+  border-radius: 10px;
+  padding: 6px 40px 6px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 82px;
+  position: relative;
+}
+.frame-1000003494 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-a {
+  padding: 0px 30px 0px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 82px;
+  position: relative;
+}
+.2 {
+  color: #61665c;
+  text-align: center;
+  font: 400 16px/24px "PingFang HK", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-6051 {
+  background: var(--color-5, #56ccf2);
+  border-radius: 4px 4px 0px 0px;
+  opacity: 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 4px;
+  position: absolute;
+  left: calc(50% - 51px);
+  bottom: 15.5px;
+}
+.frame-1000003497 {
+  background: linear-gradient(
+    93.28deg,
+    rgba(49, 129, 97, 1) 0%,
+    rgba(49, 129, 119, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 12px 36px 12px 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1195px;
+  top: 20px;
+}
+.3 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px/24px "PingFang HK", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1000003512 {
+  width: 1440px;
+  height: 720px;
+  position: absolute;
+  left: 0px;
+  top: 688px;
+}
+.rectangle-6055 {
+  background: #ffffff;
+  width: 1440px;
+  height: 720px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003509 {
+  border-radius: 8px 8px 40px 8px;
+  width: 340px;
+  height: 280px;
+  position: absolute;
+  right: 858px;
+  top: 334px;
+  overflow: hidden;
+}
+.multicultural-businesspeople-working-in-an-office-lobby-multicult-1 {
+  width: 612px;
+  height: 280px;
+  position: absolute;
+  right: -59px;
+  top: 0px;
+}
+.frame-1000003507 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 716px;
+  top: 154px;
+}
+.frame-1000003500 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cowork-cowork {
+  color: #464942;
+  text-align: left;
+  font: 400 18px/160% "Ubuntu", sans-serif;
+  position: relative;
+  width: 584px;
+}
+.frame-1000003506 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003504 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003501 {
+  background: #ffffff;
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 1px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.v-6-icon-duotone {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.icon-primary {
+  color: #83b000;
+  text-align: center;
+  font: 400 16px "Font Awesome 6 Duotone", sans-serif;
+  position: relative;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-secondary {
+  margin: 0 0 0 -16px;
+  color: #b9cd3e;
+  text-align: center;
+  font: 400 16px "Font Awesome 6 Duotone", sans-serif;
+  opacity: 0.4000000059604645;
+  position: relative;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.4 {
+  color: #318161;
+  text-align: center;
+  font: 600 16px/24px "PingFang HK", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1000003502 {
+  background: #ffffff;
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 1px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-primary2 {
+  color: #b9cd3e;
+  text-align: center;
+  font: 400 16px "Font Awesome 6 Duotone", sans-serif;
+  position: relative;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1000003503 {
+  background: #ffffff;
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 1px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003505 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-10000035042 {
+  background: #ffffff;
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 1px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-10000035062 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003508 {
+  border-radius: 40px 8px 8px 8px;
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  left: 149px;
+  top: 106px;
+  overflow: hidden;
+}
+.euphoric-young-indian-girl-celebrate-online-victory-triumph-with-1 {
+  width: 462.56px;
+  height: 260px;
+  position: absolute;
+  left: -96.74px;
+  top: 0px;
+}
+.frame-1000003511 {
+  position: absolute;
+  left: 124px;
+  top: 384.44px;
+  overflow: visible;
+}
+.frame-1000003524 {
+  width: 1440px;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 88px;
+}
+.rectangle-6053 {
+  background: #f9f4ea;
+  width: 1440px;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003498 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 160px;
+  top: 160px;
+}
+.5 {
+  color: #318161;
+  text-align: left;
+  position: relative;
+}
+._5-span {
+  color: #318161;
+  font: 700 52px/160% "Ubuntu", sans-serif;
+}
+._5-span2 {
+  color: #318161;
+  font: 400 40px/160% "Ubuntu", sans-serif;
+}
+.frame-10000034972 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-60522 {
+  background: #318161;
+  border-radius: 50px;
+  opacity: 0.4000000059604645;
+  flex-shrink: 0;
+  height: 55px;
+  position: absolute;
+  right: 9px;
+  left: 9px;
+  top: 19px;
+  filter: blur(5px);
+}
+.frame-9 {
+  margin: -36px 0 0 0;
+  background: linear-gradient(
+    93.28deg,
+    rgba(49, 129, 97, 1) 0%,
+    rgba(49, 129, 119, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 16px 42px 16px 42px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 64px;
+  position: relative;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: center;
+  font: 600 24px/24px "PingFang HK", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ellipse-5 {
+  opacity: 0.20000000298023224;
+  position: absolute;
+  left: 652px;
+  top: 173px;
+  overflow: visible;
+}
+.rectangle-6054 {
+  width: 598px;
+  height: 600px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.rectangle-60552 {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 250, 241, 0.1) 0%,
+    rgba(255, 250, 241, 0.5) 11.32909432053566%,
+    rgba(255, 250, 241, 1) 43.89001727104187%,
+    rgba(255, 250, 241, 0.5) 84.14260745048523%,
+    rgba(255, 250, 241, 0) 100%
+  );
+  width: 1440px;
+  height: 1067px;
+  position: absolute;
+  left: 0px;
+  top: 1408px;
+}
+.ellipse-52 {
+  opacity: 0.20000000298023224;
+  position: absolute;
+  left: 1098px;
+  top: 2387.68px;
+  overflow: visible;
+}
+.ellipse-3 {
+  opacity: 0.11999999731779099;
+  position: absolute;
+  left: -237px;
+  top: 1127.75px;
+  overflow: visible;
+}
+.frame-1000003526 {
+  width: 1121px;
+  height: 770px;
+  position: absolute;
+  left: calc(50% - 561px);
+  top: 1635px;
+}
+.frame-1000003517 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.rectangle-60532 {
+  background: #f5cd97;
+  border-radius: 20px;
+  opacity: 0.4000000059604645;
+  height: 280px;
+  position: absolute;
+  right: 0px;
+  left: 20px;
+  top: 15px;
+  filter: blur(20px);
+}
+.frame-1000003516 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #f0f0f0;
+  border-width: 1px;
+  padding: 0px 0px 24px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-6056 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  flex-shrink: 0;
+  width: 240px;
+  height: 160px;
+  position: relative;
+}
+.frame-1000003515 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.6 {
+  color: #2e302b;
+  text-align: left;
+  font: 500 24px "Noto Sans TC", sans-serif;
+  position: relative;
+}
+.frame-1000003514 {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.7 {
+  color: #318161;
+  text-align: left;
+  font: 500 14px "Noto Sans TC", sans-serif;
+  position: relative;
+}
+.v-6-icon {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.icon {
+  color: #318161;
+  text-align: center;
+  font: 400 16px "Font Awesome 6 Pro", sans-serif;
+  position: relative;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1000003518 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 290px;
+  top: 110px;
+}
+.frame-1000003519 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 580px;
+  top: 0px;
+}
+.frame-1000003520 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 870px;
+  top: 60px;
+}
+.frame-10000035192 {
+  width: 250px;
+  height: 295px;
+  position: absolute;
+  left: 290px;
+  top: 435px;
+}
+.frame-10000035202 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 870px;
+  top: 385px;
+}
+.frame-10000035172 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 365px;
+}
+.frame-10000035182 {
+  width: 250px;
+  height: 320px;
+  position: absolute;
+  left: 580px;
+  top: 325px;
+}
+.frame-1000003523 {
+  display: flex;
+  flex-direction: row;
+  gap: 3.25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 820px;
+  top: 651.11px;
+  overflow: visible;
+}
+.frame-1000003522 {
+  position: absolute;
+  left: 440px;
+  top: 66.9px;
+  overflow: visible;
+}
+.frame-1000003539 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 4508px;
+}
+.frame-1000003538 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 1135px;
+  position: relative;
+}
+.rectangle-60553 {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 250, 241, 1) 0%,
+    rgba(255, 250, 241, 0.51) 65.25025367736816%,
+    rgba(255, 250, 241, 0.1) 100%
+  );
+  width: 1440px;
+  height: 1000px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003537 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 100px;
+}
+.frame-1000003540 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003535 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003532 {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1000003531 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003530 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.8 {
+  color: #464942;
+  text-align: left;
+  font: 400 18px/160% "Ubuntu", sans-serif;
+  position: relative;
+}
+.frame-10000035012 {
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #ececec;
+  border-width: 1px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-primary3 {
+  color: #d1d1d1;
+  text-align: center;
+  font: 400 16px "Font Awesome 6 Duotone", sans-serif;
+  position: relative;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-secondary2 {
+  margin: 0 0 0 -16px;
+  color: #d1d1d1;
+  text-align: center;
+  font: 400 16px "Font Awesome 6 Duotone", sans-serif;
+  opacity: 0.4000000059604645;
+  position: relative;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2023-03-28-8-00-pm {
+  color: #61665c;
+  text-align: center;
+  font: 400 12px/24px "PingFang HK", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-60562 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  flex-shrink: 0;
+  width: 360px;
+  height: 239px;
+  position: relative;
+}
+.frame-1000003533 {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1000003534 {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1000003536 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-10000035392 {
+  padding: 106px 0px 106px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1440px;
+  height: 700px;
+  position: relative;
+}
+.frame-1000003527 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._10 {
+  color: #464942;
+  text-align: left;
+  font: 400 18px/160% "Ubuntu", sans-serif;
+  position: relative;
+  width: 496px;
+}
+.frame-1000003528 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.faq-01 {
+  flex-shrink: 0;
+  width: 504px;
+  height: 56px;
+  position: static;
+}
+.container {
+  background: #f5fffd;
+  border-radius: 8px;
+  width: 504px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.v-6-icon2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 460px;
+  top: 14px;
+}
+.icon2 {
+  color: #318161;
+  text-align: center;
+  font: 400 18.67px "Font Awesome 6 Pro", sans-serif;
+  position: relative;
+  width: 18.67px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.what-services-does-tanah-air-offer {
+  color: #464942;
+  text-align: left;
+  font: var(--paragraph-medium-16-px, 500 16px/150% "Roboto", sans-serif);
+  position: absolute;
+  left: 16px;
+  top: 16px;
+}
+.faq-02 {
+  flex-shrink: 0;
+  width: 504px;
+  height: 80px;
+  position: static;
+}
+.container2 {
+  background: #f5fffd;
+  border-radius: 8px;
+  width: 504px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 72px;
+}
+.v-6-icon3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 460px;
+  top: 88px;
+}
+.why-should-i-choose-a-design-studio-like-tanah-air-over-full-service-agency {
+  color: #464942;
+  text-align: left;
+  font: var(--paragraph-medium-16-px, 500 16px/150% "Roboto", sans-serif);
+  position: absolute;
+  left: 16px;
+  top: 88px;
+  width: 392px;
+}
+.faq-03 {
+  flex-shrink: 0;
+  width: 504px;
+  height: 80px;
+  position: static;
+}
+.container3 {
+  background: #f5fffd;
+  border-radius: 8px;
+  width: 504px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 168px;
+}
+.v-6-icon4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 460px;
+  top: 184px;
+}
+.how-does-tanah-air-create-website-content-without-knowing-our-business-plan {
+  color: #464942;
+  text-align: left;
+  font: var(--paragraph-medium-16-px, 500 16px/150% "Roboto", sans-serif);
+  position: absolute;
+  left: 16px;
+  top: 184px;
+  width: 392px;
+}
+.faq-04 {
+  flex-shrink: 0;
+  width: 504px;
+  height: 56px;
+  position: static;
+}
+.container4 {
+  background: #f5fffd;
+  border-radius: 8px;
+  width: 504px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 264px;
+}
+.v-6-icon5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 460px;
+  top: 278px;
+}
+.what-will-be-delivered-and-when {
+  color: #464942;
+  text-align: left;
+  font: var(--paragraph-medium-16-px, 500 16px/150% "Roboto", sans-serif);
+  position: absolute;
+  left: 16px;
+  top: 280px;
+}
+.faq-05 {
+  flex-shrink: 0;
+  width: 504px;
+  height: 56px;
+  position: static;
+}
+.container5 {
+  background: #f5fffd;
+  border-radius: 8px;
+  width: 504px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 336px;
+}
+.v-6-icon6 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 460px;
+  top: 350px;
+}
+.what-often-will-results-be-reported {
+  color: #464942;
+  text-align: left;
+  font: var(--paragraph-medium-16-px, 500 16px/150% "Roboto", sans-serif);
+  position: absolute;
+  left: 16px;
+  top: 352px;
+}
+.faq-06 {
+  flex-shrink: 0;
+  width: 504px;
+  height: 80px;
+  position: static;
+}
+.container6 {
+  background: #f5fffd;
+  border-radius: 8px;
+  width: 504px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 408px;
+}
+.v-6-icon7 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 460px;
+  top: 424px;
+}
+.how-quickly-will-i-start-seeing-result-after-working-with-tanah-air {
+  color: #464942;
+  text-align: left;
+  font: var(--paragraph-medium-16-px, 500 16px/150% "Roboto", sans-serif);
+  position: absolute;
+  left: 16px;
+  top: 424px;
+  width: 392px;
+}
+.frame-1000003549 {
+  padding: 100px 0px 100px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+  justify-content: center;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 2476px;
+}
+.frame-1000003548 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003545 {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003542 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.v-6-icon8 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+  position: relative;
+}
+.icon3 {
+  color: #318161;
+  text-align: center;
+  font: 400 40px "Font Awesome 6 Pro", sans-serif;
+  position: relative;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1000003541 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cowork {
+  color: #464942;
+  text-align: left;
+  font: 400 18px/160% "Ubuntu", sans-serif;
+  position: relative;
+  width: 452px;
+}
+.frame-1000003544 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003546 {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003547 {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-60523 {
+  background: #318161;
+  border-radius: 50px;
+  opacity: 0.4000000059604645;
+  flex-shrink: 0;
+  height: 55px;
+  position: absolute;
+  right: 9px;
+  left: 9px;
+  top: 27px;
+  filter: blur(5px);
+}
+.frame-92 {
+  margin: -36px 0 0 0;
+  background: linear-gradient(
+    93.28deg,
+    rgba(49, 129, 97, 1) 0%,
+    rgba(49, 129, 119, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 24px 72px 24px 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-60554 {
+  background: linear-gradient(
+    180deg,
+    rgba(241, 255, 251, 0.1) 0%,
+    rgba(241, 255, 249, 0.6) 6.233223155140877%,
+    rgba(241, 255, 251, 1) 52.793413400650024%,
+    rgba(241, 255, 250, 0.6) 93.63487362861633%,
+    rgba(241, 255, 249, 0.1) 100%
+  );
+  width: 1440px;
+  height: 1013px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 3495px;
+}
+.frame-1000003559 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 3595px;
+}
+.frame-1000003558 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003557 {
+  flex-shrink: 0;
+  width: 560px;
+  height: 373px;
+  position: relative;
+}
+.rectangle-60563 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  width: 560px;
+  height: 373px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003550 {
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 0px 0px 20px 0px;
+  padding: 16px 40px 16px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.9 {
+  color: #318161;
+  text-align: left;
+  font: 700 24px/160% "Ubuntu", sans-serif;
+  position: relative;
+}
+.frame-1000003552 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 112px);
+  top: calc(50% - 36.5px);
+}
+.frame-93 {
+  margin: -36px 0 0 0;
+  background: linear-gradient(
+    93.28deg,
+    rgba(49, 129, 97, 1) 0%,
+    rgba(49, 129, 119, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 24px 40px 24px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000003556 {
+  flex-shrink: 0;
+  width: 560px;
+  height: 373px;
+  position: relative;
+}
+.rectangle-6057 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  width: 560px;
+  height: 373px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003551 {
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 0px 0px 20px 0px;
+  padding: 16px 40px 16px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003555 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 112px);
+  top: calc(50% - 36.5px);
+}
+.frame-1000003554 {
+  flex-shrink: 0;
+  width: 1147px;
+  height: 400px;
+  position: relative;
+}
+.rectangle-6058 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  width: 1160px;
+  height: 400px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000003553 {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 80px;
+  top: calc(50% - 86.5px);
+}
+.10 {
+  color: #318161;
+  text-align: left;
+  font: 700 40px/160% "Ubuntu", sans-serif;
+  position: relative;
+}
+.frame-10000035522 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-6072 {
+  background: #bbbbbb;
+  width: 1440px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 6443px;
+}
